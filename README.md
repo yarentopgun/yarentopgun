@@ -1,7 +1,15 @@
 ### Hi there 👋
 
+I'm a Computer Engineering student passionate about software development. Here are a few things about me:
 
+- 🌱 Studying at Hacettepe University.
+- 💼 Interning at Kızılay Technology.
+- 🚀 Developing projects in Python, Java, and C++.
+- 📊  Interested in Data Science, AI and currently learning Data Governance.
 
-- 🔭 I’m currently working on CS
-- 🌱 I’m currently learning Java, Python, and  Machine Learning 
-- 📫 How to reach me: https://www.linkedin.com/in/ay%C5%9Fe-yaren-t-00a859220/
+## Contact
+
+- 📫 Email: yarentopgun@hacettepe.edu.tr
+- 💬 LinkedIn: www.linkedin.com/in/yarentopgun
+
+---
